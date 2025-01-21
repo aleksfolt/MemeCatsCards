@@ -16,7 +16,7 @@ from aiogram.filters import Command
 from database.cards import cards_data, reset_cooldown
 from database.mailing import get_stats
 
-ADMIN_ID = [6184515646, 6679727618, 8050178661]
+ADMIN_ID = []
 
 admin_router = Router()
 
