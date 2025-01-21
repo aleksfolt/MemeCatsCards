@@ -1,0 +1,16 @@
+{
+    "cards": [
+        {
+            "name": "Example of name",
+            "id": "1",
+            "rarity": "Example of rarity: Редкая, СверхРедкая, Мифическая, Легендарная, Анимка",
+            "file_id": "file id get from admin panel"
+        },
+        {
+            "name": "example of name 2",
+            "id": "2",
+            "rarity": "Example of rarity: Редкая, СверхРедкая, Мифическая, Легендарная, Анимка",
+            "file_id": "file id get from admin panel"
+        }
+    ]
+}
